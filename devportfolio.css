@@ -1,0 +1,138 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+ h1 {
+     font-size: 5rem;
+     text-align: center;
+ }
+
+ p {
+     font-size: 1.25rem;
+     font-family: 'Roboto', sans-serif;
+
+ }
+ 
+ 
+  .about p {
+     width: 75%;
+     margin: auto;
+     font-size: 1.5rem;
+ }
+
+ .herotxt {
+     text-align: center;
+     font-size: 2rem;
+     font-family: 'Bebas Neue', sans-serif;
+     /*make media query so txt is smaller when responsive*/
+ }
+ 
+ /*.about {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(198,108,57,1) 0%, rgba(255,205,0,1) 100%);
+ }*/
+
+ .hero {
+     background-image: url(cool-background.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+.card-hero {
+    border-width: 10px;
+    border-color: white;
+}
+
+.work-with {
+    border-style: none;
+    border-width: 1px black;
+    background-color: orange;
+    
+    
+    
+
+}
+
+.svg {
+    height: 40px;
+}
+
+.tech {
+
+    text-align: center;
+    
+}
+
+.proj {
+    margin: auto;
+    justify-content: center;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 0px;
+}
+
+.educa {
+    background-color: #cdddf7;
+}
+
+.footp {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+.btncontact {
+    background-image: url(cool-background.png);
+    border-width: 0px;
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.test {
+    display: flex;
+    
+}
+
+
+.testp {
+
+margin-left: 25%;
+margin-bottom: -25%;
+display: inline-block; 
+
+
+
+
+}
+
+.testp p {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+}
+
+.nucamp {
+    text-decoration: none;
+    color: purple;
+}
+
+.contact {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 1px 1px black;
+    
+
+}
+
+.cbn {
+    text-decoration: none;
+}
+
+.git {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+
+.txttop {
+    color: white;
+}
